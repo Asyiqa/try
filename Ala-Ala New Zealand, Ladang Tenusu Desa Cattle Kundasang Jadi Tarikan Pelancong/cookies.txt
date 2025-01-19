@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.iloveborneo.my	TRUE	/	FALSE	1999999999	pvc_visits[0]	1733853507b331
+www.iloveborneo.my	TRUE	/	FALSE	1999999999	SameSite	LAX
+
